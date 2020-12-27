@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962130144246",
+    "project_id": "triadas-90e65",
+    "storage_bucket": "triadas-90e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962130144246:android:307605550f56ece075b5d7",
+        "android_client_info": {
+          "package_name": "com.Nick.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962130144246-3ho2ol7115799a3jultk74ur3upgasrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGnOvwhGxTLBeBw7sdEoBh2LEtdNcs7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962130144246-3ho2ol7115799a3jultk74ur3upgasrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Triadas</string>
+
+
+    <string name="Tu_nombre"><b>Tu nombre:</b> </string>
+    <string name="Tu_localizacion"><b>Localización:</b> </string>
+    <string name="cuentale_al_mundo_sobre_ti"><b>Cuentale al mundo sobre ti:</b></string>
+    <string name="foto_de_perfil"><b>Foto de Perfil</b></string>
+    <string name="intereses"><b>Intereses:</b></string>
+    <string name="title_activity_menu_app">MainActivity</string>
+    <string name="galeria"><b>Galeria</b></string>
+    <string name="reputacion"><b>Reputacion:</b></string>
+
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Social</string>
+    <string name="title_notifications">Yo</string>
+
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="registrate">Registrate</string>
+    <string name="email">Email</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="confirmar_contrasenia">Confirmar Contraseña</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="pareja_hm">Pareja HM</string>
+    <string name="pareja_mm">Pareja MM</string>
+    <string name="otros">Otros</string>
+    <string name="pareja_hh">Pareja HH</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="todo">TODO</string>
+    <string name="chat">Chat</string>
+    <string name="amigos">Amigos</string>
+    <string name="conocer">Conocer</string>
+    <string name="le_gustas">Le gustas</string>
+    <string name="triada">Triada</string>
+    <string name="by">by</string>
+
+    <string name="hello_blank_fragment">Fragmento en Blanco</string>
+    <string name="usuario">Usuario</string>
+    <string name="descripcionHint">Busco gente de mente abierta para conocernos, tener citas y muchas otras cosas más. 😈</string>
+    <string name="hora">0:00</string>
+    <string name="enviado">Enviado</string>
+    <string name="cargando">Cargando...</string>
+    <string name="amigo">Amigo</string>
+
+
+</resources>
